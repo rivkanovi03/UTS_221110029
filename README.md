@@ -1,1 +1,4 @@
 # UTS_221110029
+Nim    : 221110029
+Nama   : RIVKA NOVI CAHYATI
+Kelas  : 12D1
